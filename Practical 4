@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Resume</title>
+</head>
+
+<body style="background-color: lightyellow; font-family: Arial;">
+
+<h1 style="color: blue; font-size: 36px; text-align: center;">
+Anshika Singh
+</h1>
+
+<p style="font-size: 18px; color: black;">
+Email: <a href="mailto:anshika@gmail.com" style="color: red;">anshika@gmail.com</a>
+</p>
+
+<p style="font-size: 18px; color: green;">
+Phone: 9876543210
+</p>
+
+<h2 style="color: darkred;">Career Objective</h2>
+<p style="font-size: 16px;">
+To build a successful career in the IT field and enhance my skills.
+</p>
+
+<h2 style="color: purple;">Skills</h2>
+<ul style="font-size: 16px; color: black;">
+<li>Java</li>
+<li>HTML</li>
+<li>CSS</li>
+</ul>
+
+<h2 style="color: brown;">Education</h2>
+<ol style="font-size: 16px;">
+<li>10th Pass</li>
+<li>12th Pass</li>
+<li>BCA (Pursuing)</li>
+</ol>
+
+<h2 style="color: darkgreen;">Hobbies</h2>
+<ul style="font-size: 16px;">
+<li>Reading</li>
+<li>Music</li>
+<li>Traveling</li>
+</ul>
+
+<h2 style="color: navy;">Links</h2>
+<p>
+<a href="https://www.google.com" target="_blank" style="color: blue;">
+Visit My Profile
+</a>
+</p>
+
+</body>
+</html>
